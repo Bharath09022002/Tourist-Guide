@@ -1,0 +1,13 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+#home{
+    background-color: #e7ba80;
+    height: 100vh;
+}
+
+
+
